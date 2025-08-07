@@ -1,5 +1,5 @@
 // 奇数分频
-module odd_divide #(
+module clk_odd_div #(
     parameter N = 7
 )(
     input       rst_n       ,
