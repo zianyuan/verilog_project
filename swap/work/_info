@@ -1,0 +1,44 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Github/verilog_project/swap
+T_opt
+!s110 1755314842
+VOG9H7g3XE456RK]57^O:M0
+04 4 4 work swap fast 0
+=2-d4548b46b82e-689ffa9a-64-11a8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vswap
+!s110 1755315388
+!i10b 1
+!s100 9JW?h952bM0DC=mFPWI>>1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I1L1jFeaWN<V7Ucm[JhU<D0
+R0
+w1755314823
+8./swap.v
+F./swap.v
+!i122 2
+L0 3 42
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1755315388.000000
+!s107 ./swap.v|
+!s90 -reportprogress|300|./swap.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
