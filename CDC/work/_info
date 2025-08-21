@@ -1,0 +1,67 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Github/verilog_project/CDC
+T_opt
+!s110 1755761760
+V4e]kVdhcn8JbN]kQUak@`2
+04 2 4 work tb fast 0
+=1-d4548b46b82e-68a6cc5f-192-6950
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vfast2slow
+Z2 !s110 1755762607
+!i10b 1
+!s100 9G_bLaEieC3;z=FTAW`bj1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9O6?XE3L5ABkaRTbiFS8Z0
+R0
+w1755755762
+8./fast2slow.v
+F./fast2slow.v
+!i122 6
+L0 5 45
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1755762607.000000
+!s107 ./tb.v|./fast2slow.v|
+Z7 !s90 -reportprogress|300|./fast2slow.v|./tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb
+R2
+!i10b 1
+!s100 g_9J874dRSRh0L2k9lZg;1
+R3
+I9<HQDbi[ZBbGgf]oP;2B@0
+R0
+w1755756794
+8./tb.v
+F./tb.v
+!i122 6
+L0 3 34
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ./tb.v|./fast2slow.v|
+R7
+!i113 0
+R8
+R1
